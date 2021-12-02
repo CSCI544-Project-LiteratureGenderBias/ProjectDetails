@@ -1,6 +1,11 @@
 # Quantitative Analysis of Gender Bias in English Literatures
 
 ## Team members
+Cheng Peng
+Jiemin Tang
+Zixin Zhang
+Ning Zhu
+Mingzhi Ye
 
 ## Youtube Video Link:
 https://www.youtube.com/watch?v=MxLaHD5b5Wk
