@@ -10,7 +10,6 @@ Mingzhi Ye
 ## Youtube Video Link:
 https://www.youtube.com/watch?v=MxLaHD5b5Wk
 
-## Paper
 
 ---
 # Github Folders
